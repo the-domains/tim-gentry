@@ -1,0 +1,28 @@
+name: Tim Gentry
+favicon: null
+layout_spectrum: 0.03492075391113758
+typography_spectrum: 0.6620523510500789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7411754122003913
+  lightness: 0.3899908256717026
+  saturation: 0.6177913337014616
+  rhythmicContrast: 0.7274440196342766
+purpose: []
